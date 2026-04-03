@@ -1,0 +1,5 @@
+.DS_Store
+.quarto/
+
+# Keep rendered output out of main branch when using gh-pages deployment
+_site/
