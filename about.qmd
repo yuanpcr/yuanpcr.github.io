@@ -1,0 +1,23 @@
+---
+title: "About"
+---
+
+## CV
+
+### Education
+
+#### Institute of Computing Technology, Chinese Academy of Sciences
+**Master's Student** | 2024 - Present  
+Advisor: **Prof. Xueqi Cheng**
+
+#### Beijing Jiaotong University
+**Bachelor's Degree** | 2020 - 2024  
+Institute: **Institute of Network Science and Intelligent Systems**  
+Advisor: **Prof. Huaiyu Wan**
+
+##### Honors and Awards 
+
+- Zhijin Scholarship
+- First Class Academic Excellence Scholarship
+- Finest Award, Mathematical Contest in Modeling (MCM), USA
+- Outstanding Graduate of Beijing Jiaotong University

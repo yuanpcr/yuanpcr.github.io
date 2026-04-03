@@ -1,0 +1,11 @@
+---
+title: "Blog"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  fields: [title, date, description]
+  categories: true
+---
+
+这里是我的博客，欢迎交流～

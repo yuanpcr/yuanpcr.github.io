@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "这里是我的博客，欢迎交流～\n\n\n\n\n\n\n\n\n\nWelcome to My Blog\n\n\nFirst post in Markdown\n\n\n\n\n\nApr 3, 2026\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jiayuan Guo",
+    "section": "",
+    "text": "Profile photo\n\n\n\n\n\nI am currently a second-year master’s student. My research interests focus on agent memory and long-context processing. I am advised by Prof. Xueqi Cheng. Feel free to contact me."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Jiayuan Guo",
+    "section": "",
+    "text": "I am currently a second-year master’s student. My research interests focus on agent memory and long-context processing. I am advised by Prof. Xueqi Cheng. Feel free to contact me."
+  },
+  {
+    "objectID": "index.html#cv",
+    "href": "index.html#cv",
+    "title": "Jiayuan Guo",
+    "section": "CV",
+    "text": "CV\n\nEducation\n\nInstitute of Computing Technology, Chinese Academy of Sciences\nMaster Degree | 2024 - Present\nAdvisor: Prof. Xueqi Cheng\n\n\nBeijing Jiaotong University\nBachelor Degree | 2020 - 2024\nInstitute: Institute of Network Science and Intelligent Systems\nAdvisor: Prof. Huaiyu Wan\n\nHonors and Awards\n\nZhijin Scholarship\nFirst Class Academic Excellence Scholarship\nFinest Award, Mathematical Contest in Modeling (MCM), USA\nOutstanding Graduate of Beijing Jiaotong University"
+  },
+  {
+    "objectID": "posts/2026-04-03-welcome.html",
+    "href": "posts/2026-04-03-welcome.html",
+    "title": "Welcome to My Blog",
+    "section": "",
+    "text": "This is a sample Markdown post."
+  },
+  {
+    "objectID": "posts/2026-04-03-welcome.html#why-this-page",
+    "href": "posts/2026-04-03-welcome.html#why-this-page",
+    "title": "Welcome to My Blog",
+    "section": "Why this page",
+    "text": "Why this page\n\nYou can create new posts using .md files.\nStandard Markdown syntax is supported.\nQuarto will render and list new posts automatically.\n\ndef hello():\n    return \"Hello, blog!\""
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Master’s Student | 2024 - Present\nAdvisor: Prof. Xueqi Cheng\n\n\n\nBachelor’s Degree | 2020 - 2024\nInstitute: Institute of Network Science and Intelligent Systems\nAdvisor: Prof. Huaiyu Wan\n\n\n\nZhijin Scholarship\nFirst Class Academic Excellence Scholarship\nFinest Award, Mathematical Contest in Modeling (MCM), USA\nOutstanding Graduate of Beijing Jiaotong University"
+  },
+  {
+    "objectID": "about.html#cv",
+    "href": "about.html#cv",
+    "title": "About",
+    "section": "",
+    "text": "Master’s Student | 2024 - Present\nAdvisor: Prof. Xueqi Cheng\n\n\n\nBachelor’s Degree | 2020 - 2024\nInstitute: Institute of Network Science and Intelligent Systems\nAdvisor: Prof. Huaiyu Wan\n\n\n\nZhijin Scholarship\nFirst Class Academic Excellence Scholarship\nFinest Award, Mathematical Contest in Modeling (MCM), USA\nOutstanding Graduate of Beijing Jiaotong University"
+  }
+]
